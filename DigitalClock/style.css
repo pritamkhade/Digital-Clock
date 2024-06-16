@@ -1,0 +1,12 @@
+body{
+    background-color: #873e23;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock{
+    display: flex;
+    font-size: 5rem;
+    color:#dbc5bd;
+}
